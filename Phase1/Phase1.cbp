@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Phase1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Phase1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++0x" />
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Phase1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Edge.h" />
+		<Unit filename="include/FirstGenerator.h" />
+		<Unit filename="include/Graph.h" />
+		<Unit filename="include/GraphBuilder.h" />
+		<Unit filename="include/Language_NFA_Generator.h" />
+		<Unit filename="include/Match.h" />
+		<Unit filename="include/Node.h" />
+		<Unit filename="include/Parser.h" />
+		<Unit filename="include/Parsing_Table.h" />
+		<Unit filename="include/Symbol.h" />
+		<Unit filename="include/ToDFA.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Edge.cpp" />
+		<Unit filename="src/FirstGenerator.cpp" />
+		<Unit filename="src/Graph.cpp" />
+		<Unit filename="src/GraphBuilder.cpp" />
+		<Unit filename="src/Language_NFA_Generator.cpp" />
+		<Unit filename="src/Match.cpp" />
+		<Unit filename="src/Node.cpp" />
+		<Unit filename="src/Parser.cpp" />
+		<Unit filename="src/Parsing_Table.cpp" />
+		<Unit filename="src/Symbol.cpp" />
+		<Unit filename="src/ToDFA.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

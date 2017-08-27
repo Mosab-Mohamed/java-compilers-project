@@ -1,0 +1,231 @@
+# depslib dependency file v1.0
+1460752208 source:e:\study\computer depatment\year 3\2nd term\compilers\project\phase1\main.cpp
+	<iostream>
+	<ToDFA.h>
+	<Node.h>
+	<Edge.h>
+	<vector>
+	<Match.h>
+	<Graph.h>
+	"Language_NFA_Generator.h"
+	<queue>
+	<stack>
+
+1460749897 source:e:\study\computer depatment\year 3\2nd term\compilers\project\phase1\src\edge.cpp
+	"Edge.h"
+
+1460565638 e:\study\computer depatment\year 3\2nd term\compilers\project\phase1\include\edge.h
+	<iostream>
+
+1460749920 source:e:\study\computer depatment\year 3\2nd term\compilers\project\phase1\src\graph.cpp
+	"Graph.h"
+
+1460558290 e:\study\computer depatment\year 3\2nd term\compilers\project\phase1\include\graph.h
+	"Node.h"
+	"Node.h"
+
+1460755838 e:\study\computer depatment\year 3\2nd term\compilers\project\phase1\include\node.h
+	<vector>
+	"Edge.h"
+	<iostream>
+
+1460749879 source:e:\study\computer depatment\year 3\2nd term\compilers\project\phase1\src\node.cpp
+	"Node.h"
+
+1460843141 source:e:\study\computer depatment\year 3\2nd term\compilers\project\phase1\src\todfa.cpp
+	"ToDFA.h"
+	"Edge.h"
+	"Node.h"
+	"stack"
+	"algorithm"
+
+1460728640 e:\study\computer depatment\year 3\2nd term\compilers\project\phase1\include\todfa.h
+	"Node.h"
+	"Edge.h"
+	<unordered_map>
+
+1460756286 source:e:\study\computer depatment\year 3\2nd term\compilers\project\phase1\src\match.cpp
+	"Match.h"
+	"vector"
+	"Node.h"
+	"ToDFA.h"
+	"string"
+
+1460743129 e:\study\computer depatment\year 3\2nd term\compilers\project\phase1\include\match.h
+	"vector"
+	"string"
+	"Node.h"
+
+1460724716 source:e:\study\computer depatment\year 3\2nd term\compilers\project\phase1\src\graphbuilder.cpp
+	"GraphBuilder.h"
+
+1460724707 e:\study\computer depatment\year 3\2nd term\compilers\project\phase1\include\graphbuilder.h
+	"Graph.h"
+	<iostream>
+
+1460724696 e:\study\computer depatment\year 3\2nd term\compilers\project\phase1\include\language_nfa_generator.h
+	"GraphBuilder.h"
+	"Graph.h"
+	<fstream>
+	<iostream>
+	<sstream>
+	<stack>
+	"unordered_map"
+
+1460843051 source:e:\study\computer depatment\year 3\2nd term\compilers\project\phase1\src\language_nfa_generator.cpp
+	"Language_NFA_Generator.h"
+	"strings.h"
+	<stdio.h>
+	<vector>
+	<iostream>
+	<queue>
+
+1462112931 source:e:\study\computer depatment\year 3\2nd term\compilers\project\phase_1\phase1\main.cpp
+	<iostream>
+	<ToDFA.h>
+	<Node.h>
+	<Edge.h>
+	<vector>
+	<Match.h>
+	<Graph.h>
+	"Language_NFA_Generator.h"
+	<FirstGenerator.h>
+	<Parser.h>
+	<Parsing_Table.h>
+	<FollowGenerator.h>
+	<queue>
+	<stack>
+
+1460728640 e:\study\computer depatment\year 3\2nd term\compilers\project\phase_1\phase1\include\todfa.h
+	"Node.h"
+	"Edge.h"
+	<unordered_map>
+
+1460755838 e:\study\computer depatment\year 3\2nd term\compilers\project\phase_1\phase1\include\node.h
+	<vector>
+	"Edge.h"
+	<iostream>
+
+1460565638 e:\study\computer depatment\year 3\2nd term\compilers\project\phase_1\phase1\include\edge.h
+	<iostream>
+
+1462043954 e:\study\computer depatment\year 3\2nd term\compilers\project\phase_1\phase1\include\match.h
+	"vector"
+	"string"
+	"Node.h"
+
+1460558290 e:\study\computer depatment\year 3\2nd term\compilers\project\phase_1\phase1\include\graph.h
+	"Node.h"
+	"Node.h"
+
+1460724696 e:\study\computer depatment\year 3\2nd term\compilers\project\phase_1\phase1\include\language_nfa_generator.h
+	"GraphBuilder.h"
+	"Graph.h"
+	<fstream>
+	<iostream>
+	<sstream>
+	<stack>
+	"unordered_map"
+
+1460724707 e:\study\computer depatment\year 3\2nd term\compilers\project\phase_1\phase1\include\graphbuilder.h
+	"Graph.h"
+	<iostream>
+
+1460749897 source:e:\study\computer depatment\year 3\2nd term\compilers\project\phase_1\phase1\src\edge.cpp
+	"Edge.h"
+
+1460749920 source:e:\study\computer depatment\year 3\2nd term\compilers\project\phase_1\phase1\src\graph.cpp
+	"Graph.h"
+
+1460724716 source:e:\study\computer depatment\year 3\2nd term\compilers\project\phase_1\phase1\src\graphbuilder.cpp
+	"GraphBuilder.h"
+
+1462044354 source:e:\study\computer depatment\year 3\2nd term\compilers\project\phase_1\phase1\src\language_nfa_generator.cpp
+	"Language_NFA_Generator.h"
+	"strings.h"
+	<stdio.h>
+	<vector>
+	<iostream>
+	<queue>
+
+1462043525 source:e:\study\computer depatment\year 3\2nd term\compilers\project\phase_1\phase1\src\match.cpp
+	"Match.h"
+	"vector"
+	"Node.h"
+	"ToDFA.h"
+	"string"
+
+1460749879 source:e:\study\computer depatment\year 3\2nd term\compilers\project\phase_1\phase1\src\node.cpp
+	"Node.h"
+
+1460843141 source:e:\study\computer depatment\year 3\2nd term\compilers\project\phase_1\phase1\src\todfa.cpp
+	"ToDFA.h"
+	"Edge.h"
+	"Node.h"
+	"stack"
+	"algorithm"
+
+1462044307 source:e:\study\computer depatment\year 3\2nd term\compilers\project\phase_1\phase1\src\phase2.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<limits>
+	<Symbol.h>
+	"Phase2.h"
+
+1462027851 e:\study\computer depatment\year 3\2nd term\compilers\project\phase_1\phase1\include\phase2.h
+	<Symbol.h>
+	<unordered_map>
+	<vector>
+
+1462044686 e:\study\computer depatment\year 3\2nd term\compilers\project\phase_1\phase1\include\symbol.h
+	<string>
+
+1462044754 source:e:\study\computer depatment\year 3\2nd term\compilers\project\phase_1\phase1\src\symbol.cpp
+	"Symbol.h"
+
+1462112669 source:e:\study\computer depatment\year 3\2nd term\compilers\project\phase_1\phase1\src\firstgenerator.cpp
+	"FirstGenerator.h"
+	<iostream>
+
+1462027963 e:\study\computer depatment\year 3\2nd term\compilers\project\phase_1\phase1\include\firstgenerator.h
+	<unordered_map>
+	<vector>
+	<string>
+	"Symbol.h"
+
+1462047917 source:e:\study\computer depatment\year 3\2nd term\compilers\project\phase_1\phase1\src\parsing_table.cpp
+	"Parsing_Table.h"
+
+1462047790 e:\study\computer depatment\year 3\2nd term\compilers\project\phase_1\phase1\include\parsing_table.h
+	<unordered_map>
+	<vector>
+	"Symbol.h"
+	<iostream>
+
+1462046702 e:\study\computer depatment\year 3\2nd term\compilers\project\phase_1\phase1\include\parser.h
+	<unordered_map>
+	<string>
+	<vector>
+
+1462046559 source:e:\study\computer depatment\year 3\2nd term\compilers\project\phase_1\phase1\src\parser.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<limits>
+	<Symbol.h>
+	"Parser.h"
+
+1462115293 source:e:\study\computer depatment\year 3\2nd term\compilers\project\phase_1\phase1\src\followgenerator.cpp
+	"FollowGenerator.h"
+	<algorithm>
+	<iostream>
+
+1462111907 e:\study\computer depatment\year 3\2nd term\compilers\project\phase_1\phase1\include\followgenerator.h
+	<unordered_map>
+	<vector>
+	<string>
+	"Symbol.h"
+

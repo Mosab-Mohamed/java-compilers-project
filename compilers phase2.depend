@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1462149935 source:f:\c++ projects\compilers phase2\main.cpp
+	<iostream>
+	"Symbol.h"
+	<vector>
+	<string>
+	<stack>
+	"Parsing_Table.h"
+
+1462037544 f:\c++ projects\compilers phase2\symbol.h
+	<string>
+
+1462046020 source:f:\c++ projects\compilers phase2\parsing_table.cpp
+	"Parsing_Table.h"
+
+1462046584 f:\c++ projects\compilers phase2\parsing_table.h
+	<unordered_map>
+	<vector>
+	"Symbol.h"
+	<iostream>
+
+1461951118 source:f:\c++ projects\compilers phase2\symbol.cpp
+	"Symbol.h"
+
